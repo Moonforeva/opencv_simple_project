@@ -1,2 +1,3 @@
-# opencv_simple_project
-Collection of simple project using OpenCV
+## Collection of OpenCV Project
+
+Collection of simple Python projects using OpenCV library and any additional libraries
